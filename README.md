@@ -18,7 +18,7 @@ My credentials include a Master's in Economics Science from the Fluminence Feder
 - 🌱 Estudando Deep Learning
 - 💬 Posso ajudar com análise de dados e econometria
 - 📫 Meu contato é: diazraime@gmail.com
-- ⚡ Quando estou com dúvida com meus códigos, pergunto às minhas prantas e às vezes sou iluminado pela sabiduria da Lavanda e da Aloe-vera 
+- ⚡ Quando estou com dúvida com meus códigos, pergunto às minhas plantas e às vezes sou iluminado pela sabedoria da Lavanda e da Aloe-vera 
 
 <div align="center">
   <a href="https://github.com/raimediaz">
