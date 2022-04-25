@@ -5,9 +5,9 @@
 </p>
 
 # Raime Díaz
-<sub>*MSc. in Economics and Market Research Analyst* </sub>
+<sub>*MSc. in Economics and Data Analyst* </sub>
 
-As a experienced Economist and Data Analyst I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last months applying econometrics to Brazilian logistic market problems, I developed a critical thinking and problem-solving skills.
+As a experienced Economist and Market Research Analyst I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last months applying econometrics to Brazilian logistic market problems, I developed a critical thinking and problem-solving skills.
 
 My credentials include a Master's in Economics Science from the Fluminence Federal University (UFF), an institution of higher education and advanced research rated as one of the top and most prestigious schools in Brazil.
 
@@ -36,9 +36,9 @@ My credentials include a Master's in Economics Science from the Fluminence Feder
   
 ## Projetos:
 
-
 * **Análise da Desigualdade de Renda na Pandemia usando R:** https://bit.ly/3EEFDRU
-
+* **Análise dos Dados de Airbnb em três grandes cidades latino-americanas:** https://bit.ly/3K6ORHD
+  
 ---
 
 
